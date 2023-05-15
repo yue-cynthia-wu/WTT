@@ -1,0 +1,8 @@
+character(len=1) :: job='1'
+
+ INTEGER, PARAMETER :: NK=32,   NM=64,   ncore0=1
+! INTEGER, PARAMETER :: NK=100,  NM=100,  ncore0=1
+! INTEGER, PARAMETER :: NK=180,  NM=180,  ncore0=36
+! INTEGER, PARAMETER :: NK=360,  NM=360,  ncore0=72
+! INTEGER, PARAMETER :: NK=720,  NM=720,  ncore0=72
+! INTEGER, PARAMETER :: NK=1080, NM=1080, ncore0=72   
